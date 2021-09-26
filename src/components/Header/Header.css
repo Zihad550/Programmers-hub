@@ -1,0 +1,19 @@
+
+
+.header-container{
+  background-color:lightslategray;
+}
+
+.header-title{
+  color:lightblue;
+  margin: 0;
+  font-size: 2rem;
+  padding:1rem 0;
+}
+
+.header-title-2{
+  color:#a4d6e7;
+  /* font-size:1rem; */
+  margin: 0;
+  padding:0 0 1rem;
+}

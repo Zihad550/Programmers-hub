@@ -1,0 +1,11 @@
+
+
+.cart{
+  background-color: lightsteelblue;
+  padding:1rem;
+  border-radius:.3rem;
+}
+
+.cart h2{
+  margin:0;
+}
